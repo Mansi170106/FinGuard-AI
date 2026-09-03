@@ -135,4 +135,35 @@ Risk Classification
 &#x20;      ▼
 
 Risk Factors + Alert
+---
+
+## 🖥️ Interactive Dashboard
+
+The Streamlit dashboard allows users to enter transaction information and receive an immediate risk assessment.
+
+### Dashboard Features
+
+- Interactive transaction input
+- AI-powered risk prediction
+- Risk probability
+- HIGH / MEDIUM / LOW risk classification
+- Detected risk factors
+- Transaction summary
+- Model performance information
+- Confusion matrix
+- FinGuard-AI branding
+
+### 📸 Dashboard Preview
+
+![FinGuard-AI Dashboard](screenshots/dashboard.png)
+
+### 🚨 Risk Assessment
+
+![Risk Assessment](screenshots/risk-assessment.png)
+
+### 📊 Model Performance
+
+![Model Performance](screenshots/model-performance.png)
+
+---
 
